@@ -40,3 +40,13 @@
     <td><img src="https://placehold.co/24x24/988090/988090" /> Mauve</td>
   </tr>
 </table>
+
+---
+
+### Repositories
+
+| | Repository | Description |
+|---|---|---|
+| **Core** | [ember-theme/ember](https://github.com/ember-theme/ember) | Palette definition, brand, and design rationale |
+| **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | Doom Emacs port — full face coverage |
+| **Website** | [ember-theme/site](https://github.com/ember-theme/site) | embertheme.com |
