@@ -12,8 +12,10 @@
 <p align="center">
   <a href="https://github.com/ember-theme/ember"><strong>Palette &amp; Docs</strong></a> ·
   <a href="https://github.com/ember-theme/emacs">Emacs</a> ·
-  Neovim <sup>(soon)</sup> ·
-  VS Code <sup>(soon)</sup>
+  <a href="https://github.com/ember-theme/nvim">Neovim</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/vscode">VS Code</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/kitty">Kitty</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/ghostty">Ghostty</a> <sup>(soon)</sup>
 </p>
 
 ---
@@ -49,4 +51,8 @@
 |---|---|---|
 | **Core** | [ember-theme/ember](https://github.com/ember-theme/ember) | Palette definition, brand, and design rationale |
 | **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | Doom Emacs port — full face coverage |
+| **Neovim** | [ember-theme/nvim](https://github.com/ember-theme/nvim) | Neovim port *(coming soon)* |
+| **VS Code** | [ember-theme/vscode](https://github.com/ember-theme/vscode) | VS Code port *(coming soon)* |
+| **Kitty** | [ember-theme/kitty](https://github.com/ember-theme/kitty) | Kitty terminal port *(coming soon)* |
+| **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | Ghostty terminal port *(coming soon)* |
 | **Website** | [ember-theme/site](https://github.com/ember-theme/site) | embertheme.com |
