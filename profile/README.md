@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ember-theme/ember/main/screenshots/logo.png" alt="Ember" width="64" />
+  <img src="https://raw.githubusercontent.com/ember-theme/ember/main/screenshots/logo.svg" alt="Ember" width="64" />
 </p>
 
 <h2 align="center">Ember</h2>
