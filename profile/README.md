@@ -17,7 +17,9 @@
   <a href="https://github.com/ember-theme/kitty">Kitty</a> ·
   <a href="https://github.com/ember-theme/ghostty">Ghostty</a> ·
   Zed <sup>(soon)</sup> ·
-  iTerm2 <sup>(soon)</sup>
+  iTerm2 <sup>(soon)</sup> ·
+  Alacritty <sup>(soon)</sup> ·
+  WezTerm <sup>(soon)</sup>
 </p>
 
 ---
@@ -59,4 +61,6 @@
 | **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | Ghostty terminal port |
 | **Zed** | [ember-theme/zed](https://github.com/ember-theme/zed) | Zed port *(coming soon)* |
 | **iTerm2** | [ember-theme/iterm](https://github.com/ember-theme/iterm) | iTerm2 port *(coming soon)* |
+| **Alacritty** | [ember-theme/alacritty](https://github.com/ember-theme/alacritty) | Alacritty port *(coming soon)* |
+| **WezTerm** | [ember-theme/wezterm](https://github.com/ember-theme/wezterm) | WezTerm port *(coming soon)* |
 | **Website** | [ember-theme/site](https://github.com/ember-theme/site) | embertheme.com |
