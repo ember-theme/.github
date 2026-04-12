@@ -14,8 +14,9 @@
   <a href="https://github.com/ember-theme/emacs">Emacs</a> ·
   <a href="https://github.com/ember-theme/nvim">Neovim</a> ·
   <a href="https://github.com/ember-theme/vscode">VS Code</a> <sup>(soon)</sup> ·
-  <a href="https://github.com/ember-theme/kitty">Kitty</a> <sup>(soon)</sup> ·
-  <a href="https://github.com/ember-theme/ghostty">Ghostty</a> <sup>(soon)</sup>
+  <a href="https://github.com/ember-theme/kitty">Kitty</a> ·
+  <a href="https://github.com/ember-theme/ghostty">Ghostty</a> ·
+  Zed <sup>(soon)</sup>
 </p>
 
 ---
@@ -53,6 +54,7 @@
 | **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | Doom Emacs port — full face coverage |
 | **Neovim** | [ember-theme/nvim](https://github.com/ember-theme/nvim) | Neovim port |
 | **VS Code** | [ember-theme/vscode](https://github.com/ember-theme/vscode) | VS Code port *(coming soon)* |
-| **Kitty** | [ember-theme/kitty](https://github.com/ember-theme/kitty) | Kitty terminal port *(coming soon)* |
-| **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | Ghostty terminal port *(coming soon)* |
+| **Kitty** | [ember-theme/kitty](https://github.com/ember-theme/kitty) | Kitty terminal port |
+| **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | Ghostty terminal port |
+| **Zed** | [ember-theme/zed](https://github.com/ember-theme/zed) | Zed port *(coming soon)* |
 | **Website** | [ember-theme/site](https://github.com/ember-theme/site) | embertheme.com |
