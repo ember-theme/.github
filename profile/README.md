@@ -54,13 +54,23 @@
 | | Repository | Description |
 |---|---|---|
 | **Core** | [ember-theme/ember](https://github.com/ember-theme/ember) | Palette definition, brand, and design rationale |
-| **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | Doom Emacs port — full face coverage |
-| **Neovim** | [ember-theme/nvim](https://github.com/ember-theme/nvim) | Neovim port |
-| **VS Code** | [ember-theme/vscode](https://github.com/ember-theme/vscode) | VS Code port *(coming soon)* |
-| **Kitty** | [ember-theme/kitty](https://github.com/ember-theme/kitty) | Kitty terminal port |
-| **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | Ghostty terminal port |
-| **Zed** | [ember-theme/zed](https://github.com/ember-theme/zed) | Zed port *(coming soon)* |
-| **iTerm2** | [ember-theme/iterm](https://github.com/ember-theme/iterm) | iTerm2 port *(coming soon)* |
-| **Alacritty** | [ember-theme/alacritty](https://github.com/ember-theme/alacritty) | Alacritty port *(coming soon)* |
-| **WezTerm** | [ember-theme/wezterm](https://github.com/ember-theme/wezterm) | WezTerm port *(coming soon)* |
 | **Website** | [ember-theme/site](https://github.com/ember-theme/site) | embertheme.com |
+
+### Ports
+
+| Port | Repository | Status |
+|---|---|---|
+| **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | :white_check_mark: Available |
+| **Neovim** | [ember-theme/nvim](https://github.com/ember-theme/nvim) | :white_check_mark: Available |
+| **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | :white_check_mark: Available |
+| **Kitty** | [ember-theme/kitty](https://github.com/ember-theme/kitty) | :white_check_mark: Available |
+
+### Coming soon
+
+| Port | Repository |
+|---|---|
+| VS Code | [ember-theme/vscode](https://github.com/ember-theme/vscode) |
+| Zed | [ember-theme/zed](https://github.com/ember-theme/zed) |
+| iTerm2 | [ember-theme/iterm](https://github.com/ember-theme/iterm) |
+| Alacritty | [ember-theme/alacritty](https://github.com/ember-theme/alacritty) |
+| WezTerm | [ember-theme/wezterm](https://github.com/ember-theme/wezterm) |
