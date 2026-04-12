@@ -14,12 +14,12 @@
   <a href="https://github.com/ember-theme/emacs">Emacs</a> ·
   <a href="https://github.com/ember-theme/nvim">Neovim</a> ·
   <a href="https://github.com/ember-theme/vscode">VS Code</a> <sup>(soon)</sup> ·
-  Kitty <sup>(soon)</sup> ·
-  Ghostty <sup>(soon)</sup> ·
-  Zed <sup>(soon)</sup> ·
-  iTerm2 <sup>(soon)</sup> ·
-  Alacritty <sup>(soon)</sup> ·
-  WezTerm <sup>(soon)</sup>
+  <a href="https://github.com/ember-theme/kitty">Kitty</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/ghostty">Ghostty</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/zed">Zed</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/iterm">iTerm2</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/alacritty">Alacritty</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/wezterm">WezTerm</a> <sup>(soon)</sup>
 </p>
 
 ---
