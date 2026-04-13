@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ember-theme?style=flat&colorA=2b2724&colorB=e08060&logo=github&label=Stars" alt="GitHub Org Stars" />
+  <img src="https://img.shields.io/github/stars/ember-theme?style=for-the-badge&colorA=2b2724&colorB=e08060&logo=github&label=Stars" alt="GitHub Org Stars" />
 
-  <img src="https://img.shields.io/badge/WCAG-AA-8a9868?style=flat&colorA=2b2724" alt="WCAG AA" />
-  <img src="https://img.shields.io/badge/flavors-3-7890a0?style=flat&colorA=2b2724" alt="3 flavors" />
-  <img src="https://img.shields.io/github/license/ember-theme/ember?style=flat&colorA=2b2724&colorB=988090&label=License" alt="License" />
+  <img src="https://img.shields.io/badge/WCAG-AA-8a9868?style=for-the-badge&colorA=2b2724" alt="WCAG AA" />
+  <img src="https://img.shields.io/badge/flavors-3-7890a0?style=for-the-badge&colorA=2b2724" alt="3 flavors" />
+  <img src="https://img.shields.io/github/license/ember-theme/ember?style=for-the-badge&colorA=2b2724&colorB=988090&label=License" alt="License" />
 </p>
 
 <p align="center">
