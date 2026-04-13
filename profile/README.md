@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/ember-theme?style=for-the-badge&colorA=2b2724&colorB=e08060&logo=github&label=Stars" alt="GitHub Org Stars" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ember-theme/ember"><strong>Palette &amp; Docs</strong></a> ·
   <a href="https://github.com/ember-theme/emacs">Emacs</a> ·
   <a href="https://github.com/ember-theme/nvim">Neovim</a> ·
