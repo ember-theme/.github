@@ -21,7 +21,7 @@
   <a href="https://github.com/ember-theme/ember"><strong>Palette &amp; Docs</strong></a> ·
   <a href="https://github.com/ember-theme/emacs">Emacs</a> ·
   <a href="https://github.com/ember-theme/nvim">Neovim</a> ·
-  <a href="https://github.com/ember-theme/vscode">VS Code</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/vscode">VS Code</a> ·
   <a href="https://github.com/ember-theme/kitty">Kitty</a> <sup>(soon)</sup> ·
   <a href="https://github.com/ember-theme/ghostty">Ghostty</a> ·
   <a href="https://github.com/ember-theme/zed">Zed</a> <sup>(soon)</sup> ·
@@ -72,13 +72,13 @@
 | **Emacs** | [ember-theme/emacs](https://github.com/ember-theme/emacs) | :white_check_mark: Available |
 | **Neovim** | [ember-theme/nvim](https://github.com/ember-theme/nvim) | :white_check_mark: Available |
 | **Ghostty** | [ember-theme/ghostty](https://github.com/ember-theme/ghostty) | :white_check_mark: Available |
+| **VS Code** | [ember-theme/vscode](https://github.com/ember-theme/vscode) | :white_check_mark: Available |
 
 ### Coming soon
 
 | Port | Repository |
 |---|---|
 | Kitty | [ember-theme/kitty](https://github.com/ember-theme/kitty) |
-| VS Code | [ember-theme/vscode](https://github.com/ember-theme/vscode) |
 | Zed | [ember-theme/zed](https://github.com/ember-theme/zed) |
 | iTerm2 | [ember-theme/iterm](https://github.com/ember-theme/iterm) |
 | Alacritty | [ember-theme/alacritty](https://github.com/ember-theme/alacritty) |
