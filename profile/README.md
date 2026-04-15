@@ -27,7 +27,8 @@
   <a href="https://github.com/ember-theme/zed">Zed</a> <sup>(soon)</sup> ·
   <a href="https://github.com/ember-theme/iterm">iTerm2</a> <sup>(soon)</sup> ·
   <a href="https://github.com/ember-theme/alacritty">Alacritty</a> <sup>(soon)</sup> ·
-  <a href="https://github.com/ember-theme/wezterm">WezTerm</a> <sup>(soon)</sup>
+  <a href="https://github.com/ember-theme/wezterm">WezTerm</a> <sup>(soon)</sup> ·
+  <a href="https://github.com/ember-theme/intellij">IntelliJ</a> <sup>(soon)</sup>
 </p>
 
 ---
@@ -82,3 +83,4 @@
 | iTerm2 | [ember-theme/iterm](https://github.com/ember-theme/iterm) |
 | Alacritty | [ember-theme/alacritty](https://github.com/ember-theme/alacritty) |
 | WezTerm | [ember-theme/wezterm](https://github.com/ember-theme/wezterm) |
+| IntelliJ | [ember-theme/intellij](https://github.com/ember-theme/intellij) |
